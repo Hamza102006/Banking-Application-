@@ -1,0 +1,2 @@
+hello self-testing info here
+EOF

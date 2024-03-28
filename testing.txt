@@ -1,0 +1,9 @@
+Chequing/Deposit/2.0/0.0/2.0
+Chequing/Deposit/1.25/2.0/2.0
+Savings/Deposit/242424.0/0.0/242424.0
+Savings/Deposit/124.0/242424.0/242548.0
+Chequing/Deposit/2.0/0.0/2.0
+Chequing/Deposit/1.25/2.0/2.0
+Savings/Deposit/242424.0/0.0/242424.0
+Savings/Deposit/124.0/242424.0/242548.0
+EOF
